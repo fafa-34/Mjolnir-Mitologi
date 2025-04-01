@@ -42,7 +42,3 @@
     </div>
 </body>
 </html>
-
-
-udah gua buatin versi web simple buat mjolnir, lu bisa cek di atas. kalau mau ada tambahan, bilang aja.
-
